@@ -30,13 +30,13 @@
 ## 🧭 About me
 
 ```yaml
-role:            Software QA Engineer → Data Analyst
-experience:      2+ years @ Arista Networks (Awake Security)
-currently:       MS in AI & Business Analytics @ USF (GPA 3.80, May 2026)
-research:        Graduate Research Assistant @ USF Muma College of Business
-location:        Tampa, FL — open to relocate
-specializations: [test_automation, api_testing, data_analytics, ml]
-fun_fact:        I find the bugs nobody else thinks to look for
+Role:            Network Security Software Test Engineer → Data Analyst
+Experience:      2+ years @ Arista Networks (Awake Security)
+Currently:       MS in AI & Business Analytics @ USF (GPA 3.80, May 2026)
+Research:        Graduate Research Assistant @ USF Muma College of Business
+Location:        Tampa, FL — open to relocate
+Specializations: [test_automation, api_testing, data_analytics, ml]
+Fun_Fact:        I find the bugs nobody else thinks to look for
 ```
 
 ---
@@ -101,16 +101,6 @@ fun_fact:        I find the bugs nobody else thinks to look for
 <br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhijithn07&bg_color=042C53&color=FAC775&line=FAC775&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution+activity" />
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=abhijithn07&theme=darkhub&no-frame=true&column=7&margin-w=10&margin-h=10" />
 
 </div>
 
