@@ -29,11 +29,11 @@
 
 ## 🧭 About me
 
-I'm wrapping up my **MS in AI & Business Analytics at the University of South Florida** (GPA 3.80, graduating May 2026). As a **Graduate Research Assistant** at the Muma College of Business, I work on a **VR-based medical training simulation** built in Unity 3D for Meta Quest 3 — designing and executing test scenarios for an emergency-response module (child anaphylaxis), validating clinical and interaction accuracy, and analyzing user-testing feedback to drive iterative improvements. My graduate coursework spans SQL, Tableau, Power BI, Machine Learning, Big Data, and Statistics.
+I'm wrapping up my **MS in AI & Business Analytics at the University of South Florida** (GPA 3.80, graduating May 2026). As a **Graduate Research Assistant** at the Muma College of Business, I work on a **VR-based medical training simulation** built in Unity 3D for Meta Quest 3 - designing and executing test scenarios for an emergency-response module (child anaphylaxis), validating clinical and interaction accuracy, and analyzing user-testing feedback to drive iterative improvements. My graduate coursework spans SQL, Tableau, Power BI, Machine Learning, Big Data, and Statistics.
 
-Before USF, I spent **2+ years as a Network Security Software Test Engineer at Arista Networks (Awake Security)** in Bengaluru — writing Python and Robot Framework automation, validating REST APIs in Postman, and analyzing packet captures in Wireshark for an enterprise network-security platform. That work taught me to think in terms of evidence: what would prove this is broken? what would prove this is fine? — which is honestly the same question a data analyst asks of a dataset, just at a different layer of the stack.
+Before USF, I spent **2+ years as a Network Security Software Test Engineer at Arista Networks (Awake Security)** in Bengaluru - writing Python and Robot Framework automation, validating REST APIs in Postman, and analyzing packet captures in Wireshark for an enterprise network-security platform. That work taught me to think in terms of evidence: what would prove this is broken? what would prove this is fine? - which is honestly the same question a data analyst asks of a dataset, just at a different layer of the stack.
 
-📍 Based in **Tampa, FL** — open to relocate. Currently exploring **Data Analyst** and **QA/SDET** roles where analytical curiosity meets engineering rigor.
+📍 Based in **Tampa, FL** - open to relocate. Currently exploring **Data Analyst** and **QA/SDET** roles where analytical curiosity meets engineering rigor.
 
 ---
 
@@ -131,6 +131,6 @@ Before USF, I spent **2+ years as a Network Security Software Test Engineer at A
 
 <br><br>
 
-> *"Find the signal, find the bug — same skill, different layer."*
+> *"Find the signal, find the bug - same skill, different layer."*
 
 </div>
