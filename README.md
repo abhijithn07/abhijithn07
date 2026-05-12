@@ -29,7 +29,7 @@
 
 ## 🧭 About me
 
-I'm wrapping up my **MS in AI & Business Analytics at the University of South Florida** (GPA 3.80, graduating May 2026), where I work as a **Graduate Research Assistant** at the Muma College of Business on applied analytics and emerging-technology projects. My graduate coursework spans SQL, Tableau, Power BI, Machine Learning, Big Data, and Statistics.
+I'm wrapping up my **MS in AI & Business Analytics at the University of South Florida** (GPA 3.80, graduating May 2026). As a **Graduate Research Assistant** at the Muma College of Business, I work on a **VR-based medical training simulation** built in Unity 3D for Meta Quest 3 — designing and executing test scenarios for an emergency-response module (child anaphylaxis), validating clinical and interaction accuracy, and analyzing user-testing feedback to drive iterative improvements. My graduate coursework spans SQL, Tableau, Power BI, Machine Learning, Big Data, and Statistics.
 
 Before USF, I spent **2+ years as a Network Security Software Test Engineer at Arista Networks (Awake Security)** in Bengaluru — writing Python and Robot Framework automation, validating REST APIs in Postman, and analyzing packet captures in Wireshark for an enterprise network-security platform. That work taught me to think in terms of evidence: what would prove this is broken? what would prove this is fine? — which is honestly the same question a data analyst asks of a dataset, just at a different layer of the stack.
 
@@ -89,8 +89,8 @@ Before USF, I spent **2+ years as a Network Security Software Test Engineer at A
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhijithn07&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=042C53&title_color=FAC775&icon_color=FAC775&text_color=FFFFFF" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijithn07&layout=compact&hide_border=true&bg_color=042C53&title_color=FAC775&text_color=FFFFFF&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhijithn07&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=042C53&title_color=FAC775&icon_color=FAC775&text_color=FFFFFF&cache_seconds=86400" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijithn07&layout=compact&hide_border=true&bg_color=042C53&title_color=FAC775&text_color=FFFFFF&langs_count=8&cache_seconds=86400" />
 
 <br><br>
 
