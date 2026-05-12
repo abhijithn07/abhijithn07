@@ -5,10 +5,10 @@
 <div align="center">
 
 <a href="https://github.com/abhijithn07">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=BA7517&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Abhijith+%F0%9F%91%8B;Software+QA+Engineer;Aspiring+Data+Analyst;MS+%40+University+of+South+Florida" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=BA7517&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Abhijith+%F0%9F%91%8B;Data+Analyst+%26+QA+Engineer;MS+in+AI+%26+Business+Analytics+%40+USF;Open+to+Data+Analyst+%26+QA%2FSDET+roles" alt="Typing SVG" />
 </a>
 
-### Bridging quality engineering and applied analytics
+### Where analytical thinking meets engineering rigor
 
 <br>
 
@@ -16,7 +16,7 @@
 <p>
   <img src="https://img.shields.io/badge/Tampa,_FL-042C53?style=for-the-badge&logo=googlemaps&logoColor=FAC775" />
   <img src="https://img.shields.io/badge/MS_AI_%26_Business_Analytics_%40_USF-042C53?style=for-the-badge&logo=graduation-cap&logoColor=FAC775" />
-  <img src="https://img.shields.io/badge/Open_to_QA%2FSDET_·_Data_Analyst-BA7517?style=for-the-badge&labelColor=042C53" />
+  <img src="https://img.shields.io/badge/Open_to_Data_Analyst_·_QA%2FSDET-BA7517?style=for-the-badge&labelColor=042C53" />
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=abhijithn07&label=Profile+views&color=042C53&style=for-the-badge" />
@@ -30,13 +30,14 @@
 ## 🧭 About me
 
 ```yaml
-Role:            Network Security Software Test Engineer → Data Analyst
-Experience:      2+ years @ Arista Networks (Awake Security)
+Role:            Data Analyst & Software Quality Engineer
+Analytics:       MS coursework, applied research, ML Specialization (98%)
+QA Experience:   2+ years @ Arista Networks (Awake Security)
 Currently:       MS in AI & Business Analytics @ USF (GPA 3.80, May 2026)
 Research:        Graduate Research Assistant @ USF Muma College of Business
 Location:        Tampa, FL — open to relocate
-Specializations: [test_automation, api_testing, data_analytics, ml]
-Fun_Fact:        I find the bugs nobody else thinks to look for
+Strengths:       [data_analysis, sql, dashboards, ml, test_automation, api_testing]
+Fun_Fact:        I find the patterns others miss — in datasets and in test failures
 ```
 
 ---
@@ -45,11 +46,26 @@ Fun_Fact:        I find the bugs nobody else thinks to look for
 
 #### Languages
 ![Python](https://img.shields.io/badge/Python-042C53?style=for-the-badge&logo=python&logoColor=FAC775)
-![Java](https://img.shields.io/badge/Java-042C53?style=for-the-badge&logo=openjdk&logoColor=FAC775)
 ![SQL](https://img.shields.io/badge/SQL-042C53?style=for-the-badge&logo=postgresql&logoColor=FAC775)
+![Java](https://img.shields.io/badge/Java-042C53?style=for-the-badge&logo=openjdk&logoColor=FAC775)
 ![JavaScript](https://img.shields.io/badge/JavaScript-042C53?style=for-the-badge&logo=javascript&logoColor=FAC775)
 ![HTML5](https://img.shields.io/badge/HTML5-042C53?style=for-the-badge&logo=html5&logoColor=FAC775)
 ![CSS3](https://img.shields.io/badge/CSS3-042C53?style=for-the-badge&logo=css3&logoColor=FAC775)
+
+#### Data, ML & visualization
+![pandas](https://img.shields.io/badge/pandas-042C53?style=for-the-badge&logo=pandas&logoColor=FAC775)
+![NumPy](https://img.shields.io/badge/NumPy-042C53?style=for-the-badge&logo=numpy&logoColor=FAC775)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-042C53?style=for-the-badge&logo=scikit-learn&logoColor=FAC775)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-042C53?style=for-the-badge&logo=tensorflow&logoColor=FAC775)
+![PyTorch](https://img.shields.io/badge/PyTorch-042C53?style=for-the-badge&logo=pytorch&logoColor=FAC775)
+![Jupyter](https://img.shields.io/badge/Jupyter-042C53?style=for-the-badge&logo=jupyter&logoColor=FAC775)
+![Tableau](https://img.shields.io/badge/Tableau-042C53?style=for-the-badge&logo=tableau&logoColor=FAC775)
+![Power BI](https://img.shields.io/badge/Power_BI-042C53?style=for-the-badge&logo=powerbi&logoColor=FAC775)
+
+#### Databases
+![MySQL](https://img.shields.io/badge/MySQL-042C53?style=for-the-badge&logo=mysql&logoColor=FAC775)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-042C53?style=for-the-badge&logo=postgresql&logoColor=FAC775)
+![MongoDB](https://img.shields.io/badge/MongoDB-042C53?style=for-the-badge&logo=mongodb&logoColor=FAC775)
 
 #### Test automation
 ![Robot Framework](https://img.shields.io/badge/Robot_Framework-042C53?style=for-the-badge&logo=robotframework&logoColor=FAC775)
@@ -63,19 +79,6 @@ Fun_Fact:        I find the bugs nobody else thinks to look for
 ![FastAPI](https://img.shields.io/badge/FastAPI-042C53?style=for-the-badge&logo=fastapi&logoColor=FAC775)
 ![Flask](https://img.shields.io/badge/Flask-042C53?style=for-the-badge&logo=flask&logoColor=FAC775)
 ![JSON](https://img.shields.io/badge/JSON-042C53?style=for-the-badge&logo=json&logoColor=FAC775)
-
-#### Data & ML
-![pandas](https://img.shields.io/badge/pandas-042C53?style=for-the-badge&logo=pandas&logoColor=FAC775)
-![NumPy](https://img.shields.io/badge/NumPy-042C53?style=for-the-badge&logo=numpy&logoColor=FAC775)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-042C53?style=for-the-badge&logo=tensorflow&logoColor=FAC775)
-![PyTorch](https://img.shields.io/badge/PyTorch-042C53?style=for-the-badge&logo=pytorch&logoColor=FAC775)
-![Tableau](https://img.shields.io/badge/Tableau-042C53?style=for-the-badge&logo=tableau&logoColor=FAC775)
-![Power BI](https://img.shields.io/badge/Power_BI-042C53?style=for-the-badge&logo=powerbi&logoColor=FAC775)
-
-#### Databases
-![MySQL](https://img.shields.io/badge/MySQL-042C53?style=for-the-badge&logo=mysql&logoColor=FAC775)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-042C53?style=for-the-badge&logo=postgresql&logoColor=FAC775)
-![MongoDB](https://img.shields.io/badge/MongoDB-042C53?style=for-the-badge&logo=mongodb&logoColor=FAC775)
 
 #### Tooling & networking
 ![Git](https://img.shields.io/badge/Git-042C53?style=for-the-badge&logo=git&logoColor=FAC775)
@@ -133,6 +136,6 @@ Fun_Fact:        I find the bugs nobody else thinks to look for
 
 <br><br>
 
-> *"The bug you ship is the one you didn't think to test for."*
+> *"Find the signal, find the bug — same skill, different layer."*
 
 </div>
