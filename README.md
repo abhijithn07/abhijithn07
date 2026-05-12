@@ -29,16 +29,11 @@
 
 ## 🧭 About me
 
-```yaml
-Role:            Data Analyst & Software Quality Engineer
-Analytics:       MS coursework, applied research, ML Specialization (98%)
-QA Experience:   2+ years @ Arista Networks (Awake Security)
-Currently:       MS in AI & Business Analytics @ USF (GPA 3.80, May 2026)
-Research:        Graduate Research Assistant @ USF Muma College of Business
-Location:        Tampa, FL — open to relocate
-Strengths:       [data_analysis, sql, dashboards, ml, test_automation, api_testing]
-Fun_Fact:        I find the patterns others miss — in datasets and in test failures
-```
+I'm wrapping up my **MS in AI & Business Analytics at the University of South Florida** (GPA 3.80, graduating May 2026), where I work as a **Graduate Research Assistant** at the Muma College of Business on applied analytics and emerging-technology projects. My graduate coursework spans SQL, Tableau, Power BI, Machine Learning, Big Data, and Statistics.
+
+Before USF, I spent **2+ years as a Network Security Software Test Engineer at Arista Networks (Awake Security)** in Bengaluru — writing Python and Robot Framework automation, validating REST APIs in Postman, and analyzing packet captures in Wireshark for an enterprise network-security platform. That work taught me to think in terms of evidence: what would prove this is broken? what would prove this is fine? — which is honestly the same question a data analyst asks of a dataset, just at a different layer of the stack.
+
+📍 Based in **Tampa, FL** — open to relocate. Currently exploring **Data Analyst** and **QA/SDET** roles where analytical curiosity meets engineering rigor.
 
 ---
 
